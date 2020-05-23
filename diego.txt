@@ -1,4 +1,6 @@
-Hola soy Diego torres
+Hola soy Diego torres tengo 23 años
+
+vivo en Bogotá
 
 Esta es mi primera vez en git
 
